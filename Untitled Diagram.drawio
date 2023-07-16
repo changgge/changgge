@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-11T14:48:36.286Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="tZAMmsf8lrlAbLc5ugcH" version="21.6.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-07-16T21:57:11.165Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="R2Kj-KzI_bnWnn5v4vxq" version="21.6.1" type="github">
   <diagram name="Page-1" id="QFeVosU6VZyB3Q-VxHwe">
     <mxGraphModel dx="857" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -17,7 +17,7 @@
             <mxPoint x="8" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="cUflrHvp2M4KVQtTYE87-1" value="Current housing problems in the US" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="cUflrHvp2M4KVQtTYE87-1" value="Current housing development problems in the US" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="10" y="100" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="cUflrHvp2M4KVQtTYE87-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="cUflrHvp2M4KVQtTYE87-3" target="cUflrHvp2M4KVQtTYE87-4" edge="1">
@@ -72,8 +72,8 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="640" y="160" />
-              <mxPoint x="640" y="280" />
-              <mxPoint x="70" y="280" />
+              <mxPoint x="640" y="290" />
+              <mxPoint x="70" y="290" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -93,7 +93,7 @@
           <mxGeometry x="538" y="106" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cUflrHvp2M4KVQtTYE87-25" value="re-evaluation" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="310" y="280" width="90" height="30" as="geometry" />
+          <mxGeometry x="310" y="260" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cUflrHvp2M4KVQtTYE87-33" value="offline" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="345" y="70" width="60" height="30" as="geometry" />
@@ -102,7 +102,7 @@
           <mxGeometry x="345" y="160" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cUflrHvp2M4KVQtTYE87-37" value="Focus of the proposed study" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="520" y="240" width="90" height="30" as="geometry" />
+          <mxGeometry x="520" y="250" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
