@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T02:00:46.329Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="MA7rMEuaQDzQdG2Qrcw7" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T02:39:43.237Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="-3Dk1rsk2WHfBbhVy8a9" version="22.0.8" type="github">
   <diagram name="Page-1" id="rvGeT7zia2lHMvUj9c5C">
     <mxGraphModel dx="1242" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="pW38bHKlfas4n67EDEkT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pW38bHKlfas4n67EDEkT-1" target="pW38bHKlfas4n67EDEkT-2">
+        <mxCell id="pW38bHKlfas4n67EDEkT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pW38bHKlfas4n67EDEkT-1" target="pW38bHKlfas4n67EDEkT-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-1" value="Preference differences between interest groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="pW38bHKlfas4n67EDEkT-1" value="Preference differences between interest groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="30" y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pW38bHKlfas4n67EDEkT-2" target="pW38bHKlfas4n67EDEkT-5">
+        <mxCell id="pW38bHKlfas4n67EDEkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pW38bHKlfas4n67EDEkT-2" target="pW38bHKlfas4n67EDEkT-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="pW38bHKlfas4n67EDEkT-2">
+        <mxCell id="pW38bHKlfas4n67EDEkT-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;" parent="1" source="pW38bHKlfas4n67EDEkT-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="360" y="360" as="targetPoint" />
             <Array as="points">
@@ -21,19 +21,19 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pW38bHKlfas4n67EDEkT-2" target="pW38bHKlfas4n67EDEkT-3">
+        <mxCell id="pW38bHKlfas4n67EDEkT-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pW38bHKlfas4n67EDEkT-2" target="pW38bHKlfas4n67EDEkT-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-2" value="Inequality in political representation&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="pW38bHKlfas4n67EDEkT-2" value="Inequality in political representation&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="265" y="120" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-3" value="Distortion in policy outcomes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" vertex="1" parent="1">
+        <mxCell id="pW38bHKlfas4n67EDEkT-3" value="Distortion in policy outcomes" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="520" y="120" width="150" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-5" value="City officials at local government&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="pW38bHKlfas4n67EDEkT-5" value="City officials at local government&amp;nbsp;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="220" width="160" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-8" value="Participants at local government meetings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=none;strokeColor=default;" vertex="1" parent="1">
+        <mxCell id="pW38bHKlfas4n67EDEkT-8" value="Participants at local public meetings" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;fillColor=none;strokeColor=default;" parent="1" vertex="1">
           <mxGeometry x="360" y="330" width="160" height="60" as="geometry" />
         </mxCell>
       </root>
