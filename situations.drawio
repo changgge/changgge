@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-02T02:32:28.614Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="cSgqWrBAasgMvBIpzyQE" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-02T02:37:02.947Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="96tjpywz4efDyYyCvO02" version="22.0.8" type="github">
   <diagram name="Page-1" id="9nb_cxQLbhTM0mTce0LG">
     <mxGraphModel dx="1035" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -130,7 +130,7 @@
           <mxGeometry x="250" y="750" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wk9wUNXDnFKTIU3GR9i--37" value="Slight over-representation of mid-income and high-income groups at local public meeting" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="550" y="700" width="220" height="60" as="geometry" />
+          <mxGeometry x="541.75" y="700" width="220" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wk9wUNXDnFKTIU3GR9i--40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--41" target="wk9wUNXDnFKTIU3GR9i--43">
           <mxGeometry relative="1" as="geometry" />
@@ -154,7 +154,79 @@
           <mxGeometry x="250" y="965" width="130" height="60" as="geometry" />
         </mxCell>
         <mxCell id="wk9wUNXDnFKTIU3GR9i--47" value="Government officials selected based on the affluent voters&#39; preference" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" vertex="1" parent="1">
-          <mxGeometry x="550" y="790" width="220" height="60" as="geometry" />
+          <mxGeometry x="541.75" y="790" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--52" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="30" y="1160" width="810" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--53" value="Proposal 3: District school development" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1120" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--55" target="wk9wUNXDnFKTIU3GR9i--56">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="220" y="1200" />
+              <mxPoint x="220" y="1280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--55" value="85% endorsement from homeowners in the district" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;align=left;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1170" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--56" value="80% endorsement from renters in the district" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="45" y="1250" width="155" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--59">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="220" y="1240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=#0066CC;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--59" target="wk9wUNXDnFKTIU3GR9i--63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--59" value="Slight preference difference between interest groups" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1210" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=classic;endFill=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--63" target="wk9wUNXDnFKTIU3GR9i--64">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="420" y="1350.344827586207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=#0066CC;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--63" target="wk9wUNXDnFKTIU3GR9i--71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--63" target="wk9wUNXDnFKTIU3GR9i--72">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--63" value="Inequality in political representation" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1320" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--64" value="The majority of participants at the local public meeting are homeowners" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="541.75" y="1270" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--66" target="wk9wUNXDnFKTIU3GR9i--68">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--66" value="" style="shape=curlyBracket;whiteSpace=wrap;html=1;rounded=1;flipH=1;labelPosition=right;verticalLabelPosition=middle;align=left;verticalAlign=middle;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="641.75" y="1330" width="20" height="215" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--67" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--68" target="wk9wUNXDnFKTIU3GR9i--70">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--68" value="Passed proposal based on majority preference and unequal responsiveness of government officials" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="513.5" y="1470" width="276.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="wk9wUNXDnFKTIU3GR9i--70" target="wk9wUNXDnFKTIU3GR9i--71">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--70" value="The majority of renters&#39; preference is also represented" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="569.75" y="1540" width="164" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--71" value="No distortion in the policy outcome" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;align=left;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1535" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="wk9wUNXDnFKTIU3GR9i--72" value="Government officials selected based on the homeowner group&#39;s preference" style="rounded=0;whiteSpace=wrap;html=1;fontSize=14;align=left;fillColor=#f5f5f5;fontColor=#000000;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="541.75" y="1360" width="220" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
