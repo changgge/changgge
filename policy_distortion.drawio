@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T17:20:11.935Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="Ch_MPdEh12qn-iTH8XeM" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T17:23:36.909Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="scdsB02J1YQUdxfHwIa7" version="22.0.8" type="github">
   <diagram name="Page-1" id="rvGeT7zia2lHMvUj9c5C">
     <mxGraphModel dx="710" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="pW38bHKlfas4n67EDEkT-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pW38bHKlfas4n67EDEkT-1" target="pW38bHKlfas4n67EDEkT-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pW38bHKlfas4n67EDEkT-1" value="Preference differences between interest groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="pW38bHKlfas4n67EDEkT-1" value="Preference differences between social groups" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="30" y="120" width="160" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pW38bHKlfas4n67EDEkT-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="pW38bHKlfas4n67EDEkT-2" target="pW38bHKlfas4n67EDEkT-5" edge="1">
