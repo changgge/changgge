@@ -1,41 +1,41 @@
-<mxfile host="app.diagrams.net" modified="2023-11-08T18:51:07.653Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="_YvMJEMWENZL4rFME2LM" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-08T19:03:04.048Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="TKKO0n6VteKwrlChk1A1" version="22.0.8" type="github">
   <diagram name="Page-1" id="URu4uNKUXRnZOEc8mHNk">
-    <mxGraphModel dx="857" dy="570" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="QqwzETcmwKkslnTrlPzb-63" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="60" width="480" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="QqwzETcmwKkslnTrlPzb-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
+        <mxCell id="QqwzETcmwKkslnTrlPzb-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;arcSize=4;" parent="1" vertex="1">
           <mxGeometry width="280" height="240" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry y="70" width="280" height="70" as="geometry" />
+          <mxGeometry y="110" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#B3B3B3;" parent="1" source="QqwzETcmwKkslnTrlPzb-9" target="QqwzETcmwKkslnTrlPzb-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="z7aomQfaEf4cOnaaKVpC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="QqwzETcmwKkslnTrlPzb-2" target="z7aomQfaEf4cOnaaKVpC-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-2" value="Player A and B each endowed 12 &amp;nbsp;points" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="10" width="220" height="50" as="geometry" />
+          <mxGeometry x="30" y="5" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QqwzETcmwKkslnTrlPzb-3" target="QqwzETcmwKkslnTrlPzb-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-3" value="A: one choice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="80" width="110" height="50" as="geometry" />
+          <mxGeometry x="30" y="120" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-4" value="B: strategy method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="140" y="80" width="110" height="50" as="geometry" />
+          <mxGeometry x="140" y="120" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-5" value="Report Outcome" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="30" y="150" width="220" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="QqwzETcmwKkslnTrlPzb-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.996;entryY=0.103;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="QqwzETcmwKkslnTrlPzb-2" target="QqwzETcmwKkslnTrlPzb-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="30" y="187" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-11" value="Round 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="110" y="200" width="60" height="30" as="geometry" />
+          <mxGeometry x="110" y="217" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-12" value="Round 2: repeat Round 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
           <mxGeometry y="270" width="280" height="30" as="geometry" />
@@ -77,8 +77,8 @@
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="104.66" as="sourcePoint" />
-            <mxPoint x="350" y="104.66" as="targetPoint" />
+            <mxPoint x="300" y="144.8" as="sourcePoint" />
+            <mxPoint x="350" y="144.8" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-45" value="Player A&#39;s strategy set: &amp;nbsp;{-6, -5, ..., -1, 0, 1, 2, ..., 6}&lt;br&gt;Player B&#39;s strategy set: {-6, -5, ..., -1, 0, 1, 2, ..., 18}" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -183,8 +183,17 @@
         <mxCell id="QqwzETcmwKkslnTrlPzb-80" value="B&#39;s choice based on strategy method:" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=none;fillColor=none;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="390" y="600" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="OuTmns6znO_Xfdcy9KoG-1" value="Note: nothing changes if A or B chooses 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="OuTmns6znO_Xfdcy9KoG-1" value="Note: nothing changes if A or B chooses 0" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="360" y="750" width="480" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="z7aomQfaEf4cOnaaKVpC-1" value="Reveal A and B&#39;s political IDs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="30" y="70" width="220" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="z7aomQfaEf4cOnaaKVpC-2" value="If ID Treatment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="30" y="50" width="100" height="28" as="geometry" />
+        </mxCell>
+        <mxCell id="z7aomQfaEf4cOnaaKVpC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.998;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="z7aomQfaEf4cOnaaKVpC-1" target="QqwzETcmwKkslnTrlPzb-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
