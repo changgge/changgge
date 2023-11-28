@@ -1,17 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2023-11-22T21:36:18.502Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="QvPCoM689hzl6Bhnq4oY" version="22.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-28T04:06:24.018Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/16.3 Safari/605.1.15" etag="7MkNNk7MK-_dUOxNBOjr" version="22.1.4" type="github">
   <diagram name="Page-1" id="URu4uNKUXRnZOEc8mHNk">
-    <mxGraphModel dx="1035" dy="689" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-2" value="&lt;b&gt;&lt;u&gt;Part 2: Active Decisions&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;Intention Treatment x ID Treatment&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
+          <mxGeometry x="10" y="80" width="280" height="590" as="geometry" />
+        </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-63" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="370" y="180" width="480" height="310" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-9" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;arcSize=4;" parent="1" vertex="1">
-          <mxGeometry x="10" y="180" width="280" height="240" as="geometry" />
+          <mxGeometry x="10" y="150" width="280" height="310" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-44" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="10" y="290" width="280" height="70" as="geometry" />
+          <mxGeometry x="10" y="310" width="280" height="70" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=4;strokeColor=#B3B3B3;" parent="1" source="QqwzETcmwKkslnTrlPzb-9" target="QqwzETcmwKkslnTrlPzb-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -19,29 +22,29 @@
         <mxCell id="z7aomQfaEf4cOnaaKVpC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QqwzETcmwKkslnTrlPzb-2" target="z7aomQfaEf4cOnaaKVpC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QqwzETcmwKkslnTrlPzb-2" value="Match Player A and B into groups" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="185" width="220" height="35" as="geometry" />
+        <mxCell id="QqwzETcmwKkslnTrlPzb-2" value="Match A and B into pairs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="40" y="208" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QqwzETcmwKkslnTrlPzb-3" target="QqwzETcmwKkslnTrlPzb-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-3" value="A: one choice" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="300" width="110" height="50" as="geometry" />
+          <mxGeometry x="40" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-4" value="B: strategy method" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="150" y="300" width="110" height="50" as="geometry" />
+          <mxGeometry x="150" y="320" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-5" value="Report Outcome" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="40" y="367" width="220" height="30" as="geometry" />
+          <mxGeometry x="40" y="399" width="220" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-11" value="Round 1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="120" y="397" width="60" height="30" as="geometry" />
+          <mxGeometry x="120" y="429" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-12" value="Round 2: repeat Round 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="10" y="450" width="280" height="30" as="geometry" />
+          <mxGeometry x="10" y="490" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-20" value="Round 3: repeat Round 1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="10" y="530" width="280" height="30" as="geometry" />
+          <mxGeometry x="10" y="570" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -54,7 +57,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-28" value="Round 4: repeat Round 1&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="10" y="590" width="280" height="30" as="geometry" />
+          <mxGeometry x="10" y="625" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -73,15 +76,15 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-41" value="Match Player B with a new Player A1, &lt;br&gt;who is different from Player A" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=4" parent="1" vertex="1">
-          <mxGeometry x="154" y="480" width="220" height="40" as="geometry" />
+          <mxGeometry x="160" y="520" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="310" y="324.8" as="sourcePoint" />
-            <mxPoint x="360" y="324.8" as="targetPoint" />
+            <mxPoint x="310" y="344.5" as="sourcePoint" />
+            <mxPoint x="360" y="344.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqwzETcmwKkslnTrlPzb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" target="QqwzETcmwKkslnTrlPzb-53" edge="1">
+        <mxCell id="QqwzETcmwKkslnTrlPzb-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="575" y="350" as="sourcePoint" />
           </mxGeometry>
@@ -92,112 +95,115 @@
             <mxPoint x="160" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqwzETcmwKkslnTrlPzb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" source="QqwzETcmwKkslnTrlPzb-60" edge="1">
+        <mxCell id="QqwzETcmwKkslnTrlPzb-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=1;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="575" y="510" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z7aomQfaEf4cOnaaKVpC-1" value="Reveal A and B&#39;s political IDs" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
-          <mxGeometry x="40" y="250" width="220" height="28" as="geometry" />
+          <mxGeometry x="40" y="270" width="220" height="28" as="geometry" />
         </mxCell>
         <mxCell id="z7aomQfaEf4cOnaaKVpC-2" value="If ID Treatment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=5" parent="1" vertex="1">
-          <mxGeometry x="40" y="230" width="100" height="28" as="geometry" />
+          <mxGeometry x="40" y="250" width="100" height="28" as="geometry" />
         </mxCell>
         <mxCell id="z7aomQfaEf4cOnaaKVpC-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.998;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="z7aomQfaEf4cOnaaKVpC-1" target="QqwzETcmwKkslnTrlPzb-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-1" value="&lt;b&gt;&lt;u&gt;Part 1: Pre-experiment&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Demographic survey + Political bias survey" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="10" width="830" height="60" as="geometry" />
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-1" value="&lt;b&gt;&lt;u&gt;Part 1: Pre-experiment&amp;nbsp;&lt;/u&gt;&lt;/b&gt;&lt;br&gt;&lt;br&gt;Demographic survey + Political bias survey" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="10" y="10" width="280" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-2" value="&lt;b&gt;&lt;u&gt;Part 2: Modified moonlighting game (Abbink et al., 2000; Falk et al., 2008)&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;br&gt;&lt;br&gt;Intention Treatment x ID Treatment" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="10" y="90" width="830" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-4" value="Take n points away from Player B&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-4" value="Take n points away from Player B&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="380" y="223" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-5" value="Do nothing and retain status quo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-5" value="Do nothing and retain status quo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="293" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-6" value="Give n points to Player B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-6" value="Give n points to Player B" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380" y="363" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-7" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="370" y="510" width="480" height="280" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-8" value="Punish Player A by spending m points&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-8" value="Punish Player A by spending m points&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
           <mxGeometry x="380" y="583" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-9" value="Do nothing and retain status quo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-9" value="Do nothing and retain status quo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="380" y="655" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-10" value="Reward Player A by spending m points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-10" value="Reward Player A by spending m points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="380" y="725" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-11" value="A&#39;s decision is solely determined by a random device, and B knows this" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-11" value="A&#39;s decision is solely determined by a random device, and B knows this" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="380" y="455" width="440" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-12" value="If No Intention Treatment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=5" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-12" value="If No Intention Treatment" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;fontStyle=5" parent="1" vertex="1">
           <mxGeometry x="380" y="430" width="175" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-13" value="Effects of the action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-13" value="Effects of the action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="603" y="188" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-14" value="On Player A&#39;s points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-14" value="On Player A&#39;s points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="603" y="208" width="120" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-16" value="Player A can choose one action from the following three categories:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-16" value="Player A can choose one action from the following three categories:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="370" y="153" width="400" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-17" value="On Player B&#39;s points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-17" value="On Player B&#39;s points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="723" y="208" width="120" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-18" value="+ n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-18" value="+ n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="223" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-19" value="- n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-19" value="- n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="723" y="223" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-20" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-20" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="293" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-21" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-21" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="723" y="293" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-22" value="- n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-22" value="- n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="363" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-23" value="- 3n" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-23" value="+ 3n" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="723" y="363" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-24" value="Conditioning on Player A&#39;s possible choices,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Player B can choose one action from the following three categories:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-24" value="Conditioning on Player A&#39;s possible choices,&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Player B can choose one action from the following three categories:" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
           <mxGeometry x="370" y="500" width="400" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-25" value="Effects of the action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-25" value="Effects of the action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="603" y="550" width="240" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-26" value="On Player A&#39;s points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-26" value="On Player A&#39;s points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="603" y="570" width="120" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-27" value="On Player B&#39;s points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-27" value="On Player B&#39;s points" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
           <mxGeometry x="723" y="570" width="120" height="15" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-28" value="- 3m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-28" value="- 3m" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-29" value="- m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-29" value="- m" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="723" y="585" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-30" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-30" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-31" value="0" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-31" value="0" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="723" y="655" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-32" value="+ m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-32" value="+ m" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="603" y="725" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-33" value="- m" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-33" value="- m" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="723" y="725" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfb6OIT1XOgmqSQ-Ksim-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Tfb6OIT1XOgmqSQ-Ksim-1" target="QqwzETcmwKkslnTrlPzb-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Tfb6OIT1XOgmqSQ-Ksim-1" value="Endow Each A &amp;amp; B with 12 points" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="160" width="220" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
