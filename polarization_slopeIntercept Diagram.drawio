@@ -1,9 +1,15 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T19:20:39.867Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="HXIgD_CRnfwPaVbf9QoO" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T19:23:45.036Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="a8HQP56qiyehlCG5D3mb" version="24.5.3" type="github">
   <diagram name="Page-1" id="Ew7KFUsUM-5sgseoDQyE">
     <mxGraphModel dx="414" dy="276" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="-bnWbpkABqGrMp3vOz5b-32" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="320" y="50" width="120" height="230" as="geometry" />
+        </mxCell>
+        <mxCell id="-bnWbpkABqGrMp3vOz5b-31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="200" y="50" width="120" height="230" as="geometry" />
+        </mxCell>
         <mxCell id="-bnWbpkABqGrMp3vOz5b-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="-bnWbpkABqGrMp3vOz5b-4">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="170" y="160" as="sourcePoint" />
@@ -96,6 +102,12 @@
         </mxCell>
         <mxCell id="-bnWbpkABqGrMp3vOz5b-30" value="B&#39;s slope&lt;span style=&quot;font-size: 9px;&quot;&gt;&lt;sub&gt;-&lt;/sub&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
           <mxGeometry x="247" y="250" width="59" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="-bnWbpkABqGrMp3vOz5b-33" value="Take Region" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#d29d00;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="-bnWbpkABqGrMp3vOz5b-34" value="Give Region" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=none;strokeColor=none;fontColor=#008cb4;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="120" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
