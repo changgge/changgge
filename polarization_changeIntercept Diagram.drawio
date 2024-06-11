@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T19:40:11.611Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="4VZYzkZQkOvSE4ymJJiZ" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T20:13:34.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="3CbKNlXiyDFMP1h2Wfk4" version="24.5.3" type="github">
   <diagram name="Page-1" id="Ew7KFUsUM-5sgseoDQyE">
     <mxGraphModel dx="1242" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,7 +58,7 @@
         <mxCell id="-bnWbpkABqGrMp3vOz5b-20" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="175" y="253" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="-bnWbpkABqGrMp3vOz5b-24" value="B&#39;s intercept&lt;sub&gt;-0&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" parent="1" vertex="1">
+        <mxCell id="-bnWbpkABqGrMp3vOz5b-24" value="B&#39;s intercept&lt;sub&gt;-&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" parent="1" vertex="1">
           <mxGeometry x="195.5" y="253" width="84.5" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ykKiPOJK7NnUL1nWyVB5-1" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="ykKiPOJK7NnUL1nWyVB5-4">
@@ -127,7 +127,7 @@
         <mxCell id="ykKiPOJK7NnUL1nWyVB5-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="175" y="215" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ykKiPOJK7NnUL1nWyVB5-28" value="B&#39;s intercept&lt;sub&gt;-1&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
+        <mxCell id="ykKiPOJK7NnUL1nWyVB5-28" value="B&#39;s intercept&lt;sub&gt;-&#39;&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
           <mxGeometry x="186.5" y="212.5" width="104" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ykKiPOJK7NnUL1nWyVB5-29" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
