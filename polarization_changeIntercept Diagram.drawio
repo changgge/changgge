@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T20:13:34.182Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="3CbKNlXiyDFMP1h2Wfk4" version="24.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T16:55:49.985Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" etag="TKZmOyhvXyqWZsRTTbyQ" version="24.5.3" type="github">
   <diagram name="Page-1" id="Ew7KFUsUM-5sgseoDQyE">
-    <mxGraphModel dx="1242" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="828" dy="551" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -115,7 +115,7 @@
         <mxCell id="ykKiPOJK7NnUL1nWyVB5-17" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="525.5" y="165" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ykKiPOJK7NnUL1nWyVB5-19" value="B&#39;s intercept&lt;font size=&quot;1&quot;&gt;&lt;sub&gt;+0&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
+        <mxCell id="ykKiPOJK7NnUL1nWyVB5-19" value="B&#39;s intercept&lt;font size=&quot;1&quot;&gt;&lt;sub&gt;+&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
           <mxGeometry x="445.5" y="149" width="79" height="26" as="geometry" />
         </mxCell>
         <mxCell id="ykKiPOJK7NnUL1nWyVB5-26" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
@@ -127,8 +127,8 @@
         <mxCell id="ykKiPOJK7NnUL1nWyVB5-27" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="175" y="215" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ykKiPOJK7NnUL1nWyVB5-28" value="B&#39;s intercept&lt;sub&gt;-&#39;&lt;/sub&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
-          <mxGeometry x="186.5" y="212.5" width="104" height="15" as="geometry" />
+        <mxCell id="ykKiPOJK7NnUL1nWyVB5-28" value="B&#39;s intercept&lt;sub&gt;-&lt;/sub&gt;&lt;sup&gt;&#39;&lt;/sup&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
+          <mxGeometry x="186.5" y="208.5" width="104" height="15" as="geometry" />
         </mxCell>
         <mxCell id="ykKiPOJK7NnUL1nWyVB5-29" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -151,8 +151,14 @@
         <mxCell id="ykKiPOJK7NnUL1nWyVB5-31" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="525" y="109" width="10" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="ykKiPOJK7NnUL1nWyVB5-34" value="B&#39;s intercept&lt;font size=&quot;1&quot;&gt;&lt;sub&gt;+1&lt;/sub&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
+        <mxCell id="ykKiPOJK7NnUL1nWyVB5-34" value="B&#39;s intercept&lt;font size=&quot;1&quot;&gt;&lt;sub&gt;+&lt;/sub&gt;&lt;sup&gt;&#39;&lt;/sup&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#919191;" vertex="1" parent="1">
           <mxGeometry x="445.5" y="93" width="79" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="ykKiPOJK7NnUL1nWyVB5-35" value="Intercept increases in the Take Region&lt;div&gt;(1)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="30" y="350" width="300" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ykKiPOJK7NnUL1nWyVB5-36" value="Intercept increases in the Give Region&lt;div&gt;(2)&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=5" vertex="1" parent="1">
+          <mxGeometry x="380" y="350" width="300" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
