@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.7.16">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="24.8.8">
   <diagram name="Page-1" id="URu4uNKUXRnZOEc8mHNk">
     <mxGraphModel dx="1242" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="34_oi87PZvmmn8aJ0qBM-2" value="&lt;b&gt;&lt;u&gt;Part 2: Active Decisions&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;div&gt;&lt;br&gt;&amp;nbsp;ID Treatment X In/Out-Group&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
+        <mxCell id="34_oi87PZvmmn8aJ0qBM-2" value="&lt;b&gt;&lt;u&gt;Part 2: Active Decisions&lt;/u&gt;&lt;/b&gt;&amp;nbsp;&lt;div&gt;&lt;br&gt;&amp;nbsp;(ID Treatment) X (In/Out-Group)&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;arcSize=3;" parent="1" vertex="1">
           <mxGeometry x="10" y="80" width="280" height="590" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-63" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=2;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
@@ -22,7 +22,7 @@
         <mxCell id="z7aomQfaEf4cOnaaKVpC-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QqwzETcmwKkslnTrlPzb-2" target="z7aomQfaEf4cOnaaKVpC-1" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="QqwzETcmwKkslnTrlPzb-2" value="Match A and B into pairs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="QqwzETcmwKkslnTrlPzb-2" value="Match A1 and B into pairs" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="40" y="208" width="220" height="35" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="QqwzETcmwKkslnTrlPzb-3" target="QqwzETcmwKkslnTrlPzb-5" edge="1">
@@ -75,7 +75,7 @@
             <mxPoint x="160" y="480" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QqwzETcmwKkslnTrlPzb-41" value="Match Player B with a new Player A1, &lt;br&gt;who is different from Player A" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=4" parent="1" vertex="1">
+        <mxCell id="QqwzETcmwKkslnTrlPzb-41" value="Match Player B with a new Player A2, &lt;br&gt;who is different from Player A1" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontStyle=4" parent="1" vertex="1">
           <mxGeometry x="160" y="520" width="220" height="40" as="geometry" />
         </mxCell>
         <mxCell id="QqwzETcmwKkslnTrlPzb-42" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
