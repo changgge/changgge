@@ -272,6 +272,12 @@
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-31" value="C&lt;font style=&quot;font-size: 10px;&quot;&gt;IVIC&lt;/font&gt;&lt;font&gt; (binary target&lt;/font&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="160" y="420" width="280" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#aaaaaa, #ededed);" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="80" as="sourcePoint" />
+            <mxPoint x="640" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
