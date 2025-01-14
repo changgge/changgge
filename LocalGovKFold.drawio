@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="26.0.4">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="26.0.5">
   <diagram name="Page-1" id="k8qGRllSuCCMeSWJRuRN">
-    <mxGraphModel dx="1774" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1242" dy="827" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -172,7 +172,7 @@
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-15" value="No civic areas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="180" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-18" value="Call to Attention or Action" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-18" value="Action comment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="80" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" parent="1" source="KJEaABMl4YH4yPC1yJ6U-20" target="KJEaABMl4YH4yPC1yJ6U-10" edge="1">
@@ -188,7 +188,7 @@
             <mxPoint x="65" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-20" value="Announcements" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-20" value="Not action comment&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="110" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fontSize=14;" parent="1" edge="1">
@@ -209,7 +209,7 @@
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-27" value="Step 2: Machine learning - Text classification" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="290" width="700" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-28" value="C&lt;font&gt;ALL&lt;/font&gt;T&lt;font&gt;O&lt;/font&gt;A&lt;font&gt;TTENTION&lt;/font&gt;/A&lt;font&gt;CTION&lt;/font&gt;&lt;font&gt; (binary target)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-28" value="&lt;font&gt;A&lt;font style=&quot;font-size: 11px;&quot;&gt;CTION&lt;/font&gt;C&lt;font style=&quot;font-size: 10px;&quot;&gt;OMMENT&lt;/font&gt; (binary target)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="360" width="400" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-29" value="Civic Areas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
@@ -218,7 +218,7 @@
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-30" value="Top 10 civic areas (10 binary targets)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="390" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-31" value="C&lt;font&gt;IVIC&lt;/font&gt;&lt;font&gt; (binary target&lt;/font&gt;&lt;font&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-31" value="C&lt;font style=&quot;font-size: 10px;&quot;&gt;IVIC&lt;/font&gt;&lt;font&gt; (binary target&lt;/font&gt;&lt;font&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="420" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-33" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#aaaaaa, #ededed);fontSize=14;" parent="1" edge="1">
@@ -237,7 +237,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-36" value="If C&lt;font&gt;IVIC&lt;/font&gt; = 1 &amp;amp; Not Top 10 civic areas:&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Other civic area = 1&lt;div&gt;If CIVIC = 0:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;No civic area = 1&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="KJEaABMl4YH4yPC1yJ6U-35" vertex="1" connectable="0">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-36" value="If C&lt;font style=&quot;font-size: 9px;&quot;&gt;IVIC&lt;/font&gt; = 1 &amp;amp; Not Top 10 civic areas:&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Other civic area = 1&lt;div&gt;If C&lt;font style=&quot;font-size: 9px;&quot;&gt;IVIC&lt;/font&gt; = 0:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;No civic area = 1&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="KJEaABMl4YH4yPC1yJ6U-35" vertex="1" connectable="0">
           <mxGeometry x="-0.0314" relative="1" as="geometry">
             <mxPoint x="-20" y="2" as="offset" />
           </mxGeometry>
@@ -248,7 +248,7 @@
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-38" value="Top 10 social issues (10 binary targets)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="450" width="280" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-39" value="&lt;font&gt;S&lt;font&gt;OCIAL&lt;/font&gt;&lt;/font&gt;&lt;font&gt;&amp;nbsp;(binary target&lt;/font&gt;&lt;font&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-39" value="&lt;font&gt;S&lt;font style=&quot;font-size: 10px;&quot;&gt;OCIAL&lt;/font&gt;&lt;/font&gt;&lt;font&gt;&amp;nbsp;(binary target&lt;/font&gt;&lt;font&gt;)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="480" width="280" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;fillColor=#f8cecc;strokeColor=light-dark(#000000, #d7817e);fontSize=14;" parent="1" edge="1">
@@ -261,12 +261,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-41" value="If S&lt;font&gt;OCIAL&lt;/font&gt;&amp;nbsp;= 1 &amp;amp; Not Top 10 social issues:&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Other social issue = 1&lt;div&gt;If S&lt;font&gt;OCIAL&lt;/font&gt; = 0:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;No social issue = 1&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="KJEaABMl4YH4yPC1yJ6U-40" vertex="1" connectable="0">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-41" value="If S&lt;font style=&quot;font-size: 9px;&quot;&gt;OCIAL&lt;/font&gt;&amp;nbsp;= 1 &amp;amp; Not Top 10 social issues:&amp;nbsp;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;Other social issue = 1&lt;div&gt;If S&lt;font style=&quot;font-size: 9px;&quot;&gt;OCIAL&lt;/font&gt; = 0:&amp;nbsp;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;No social issue = 1&lt;/div&gt;&lt;/div&gt;" style="edgeLabel;html=1;align=left;verticalAlign=middle;resizable=0;points=[];fontSize=12;" parent="KJEaABMl4YH4yPC1yJ6U-40" vertex="1" connectable="0">
           <mxGeometry x="-0.0314" relative="1" as="geometry">
             <mxPoint x="-20" y="2" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-42" value="Step 3: Machine learning - Text classification&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In this section, we restrict our attention to data with &lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;C&lt;font&gt;ALL&lt;/font&gt;T&lt;font&gt;O&lt;/font&gt;A&lt;font&gt;TTENTION&lt;/font&gt;/A&lt;font&gt;CTION&lt;/font&gt;&amp;nbsp;= 1&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-42" value="Step 3: Machine learning - Text classification&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;In this section, we restrict our attention to data with&amp;nbsp;&lt;b&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;A&lt;/span&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;CTION&lt;/font&gt;&lt;span style=&quot;font-size: 14px;&quot;&gt;C&lt;/span&gt;&lt;font style=&quot;font-size: 10px;&quot;&gt;OMMENT&lt;/font&gt;&lt;/b&gt;&lt;span style=&quot;background-color: light-dark(#ffffff, var(--ge-dark-color, #121212));&quot;&gt;&lt;b&gt;&amp;nbsp;= 1&amp;nbsp;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="535" width="700" height="65" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-43" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;strokeColor=light-dark(#aaaaaa, #ededed);fontSize=14;" parent="1" edge="1">
