@@ -1,14 +1,14 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="dWAUJKyAPUHqVSD2c30o">
-    <mxGraphModel dx="1299" dy="876" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1234" dy="832" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="XmK-ISircZ31_cJlSy5G-73" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#dae8fc;strokeColor=none;opacity=50;" parent="1" vertex="1">
-          <mxGeometry y="435" width="820" height="295" as="geometry" />
+          <mxGeometry y="420" width="820" height="310" as="geometry" />
         </mxCell>
         <mxCell id="XmK-ISircZ31_cJlSy5G-74" value="Level 2 C&lt;font&gt;&lt;font style=&quot;font-size: 12px;&quot;&gt;ASCADE&lt;/font&gt;. Goal: fine classification of H, T, and a smaller portion of N&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#dae8fc;strokeColor=none;opacity=50;fontStyle=1;fontColor=#547299;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="50" y="415" width="770" height="20" as="geometry" />
+          <mxGeometry x="50" y="400" width="770" height="20" as="geometry" />
         </mxCell>
         <mxCell id="XmK-ISircZ31_cJlSy5G-71" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;fillColor=#fff2cc;strokeColor=none;opacity=50;" parent="1" vertex="1">
           <mxGeometry y="140" width="820" height="240" as="geometry" />
@@ -298,6 +298,12 @@
         </mxCell>
         <mxCell id="WY-bexpHM8N3G8zlpBjD-41" value="&lt;sub&gt;&lt;span style=&quot;font-size: 15px;&quot;&gt;y&lt;sub&gt;val&lt;/sub&gt;&lt;/span&gt;&lt;/sub&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E15D40;fontColor=#000000;strokeColor=default;fontSize=15;" vertex="1" parent="1">
           <mxGeometry x="640" y="680" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="WY-bexpHM8N3G8zlpBjD-46" value="Train" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B67E40;fontColor=#FFFFFF;strokeColor=default;fontSize=15;" vertex="1" parent="1">
+          <mxGeometry x="110" y="435" width="250" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="WY-bexpHM8N3G8zlpBjD-47" value="Val" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#980043;fontColor=#FFFFFF;strokeColor=default;fontSize=15;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="360" y="435" width="90" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
