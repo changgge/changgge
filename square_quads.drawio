@@ -1,9 +1,21 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="hRr5kimbQxW6g2onVM2X">
-    <mxGraphModel>
+    <mxGraphModel dx="705" dy="475" grid="1" gridSize="1" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" adaptiveColors="auto">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ILlvKbUS54B9NnVb6DW4-1" value="Quadrant 1 - Lifestyle heavy&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Account setup:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# News Follows &amp;lt; 0.25 A&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# Lifestyle Follows &amp;gt; 0.75 A&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;br&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Viewing protocol:&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Pwatch(1, News) =&amp;nbsp;ρ&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Pwatch(1,&amp;nbsp;&lt;span style=&quot;&quot;&gt;¬&lt;/span&gt;News) =&amp;nbsp;&lt;span style=&quot;&quot;&gt;σ&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#5E3C99;strokeColor=none;fontColor=#F7F7F7;" vertex="1" parent="1">
+          <mxGeometry x="96" y="68" width="268" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="ILlvKbUS54B9NnVb6DW4-2" value="Quadrant 2" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#B2ABD2;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="363" y="68" width="268" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="ILlvKbUS54B9NnVb6DW4-3" value="Quadrant 3" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#FDB863;strokeColor=none;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="96" y="232" width="268" height="164" as="geometry" />
+        </mxCell>
+        <mxCell id="ILlvKbUS54B9NnVb6DW4-4" value="Quadrant 4&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# News Follows &amp;gt; 0.75 A&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;# Lifestyle Follows &amp;lt; 0.25 A&amp;nbsp;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Pwatch(4, News) = 1-ρ&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;text-align: left;&quot;&gt;Pwatch(4,&amp;nbsp;¬News) = 1-σ&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#E66101;strokeColor=none;fontColor=#F7F7F7;" vertex="1" parent="1">
+          <mxGeometry x="363" y="232" width="268" height="164" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
