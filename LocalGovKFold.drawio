@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Safari/605.1.15" version="26.0.5">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.3.1 Safari/605.1.15" version="26.2.14">
   <diagram name="Page-1" id="k8qGRllSuCCMeSWJRuRN">
-    <mxGraphModel dx="1774" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="851" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -145,13 +145,13 @@
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-1" value="Step 1: Annotation" style="rounded=1;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="20" y="10" width="700" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-7" value="Civic Areas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-7" value="Local Concerns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-8" value="Type of comment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-9" value="Social Issues" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-9" value="Societal Concerns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="40" y="200" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-10" value="16 specific social issues" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
@@ -163,13 +163,13 @@
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-12" value="No social Issues" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="240" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-13" value="14 specific civic areas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-13" value="14 specific local concerns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="140" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-14" value="Other civic areas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-14" value="Other local concerns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="160" width="280" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-15" value="No civic areas" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-15" value="No&amp;nbsp;local concerns" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;fontSize=14;" parent="1" vertex="1">
           <mxGeometry x="160" y="180" width="280" height="20" as="geometry" />
         </mxCell>
         <mxCell id="KJEaABMl4YH4yPC1yJ6U-18" value="Action comment" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=14;" parent="1" vertex="1">
@@ -183,7 +183,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KJEaABMl4YH4yPC1yJ6U-23" value="Determine Top 10 Civic Areas" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;" parent="KJEaABMl4YH4yPC1yJ6U-22" vertex="1" connectable="0">
+        <mxCell id="KJEaABMl4YH4yPC1yJ6U-23" value="Determine Top 10&amp;nbsp;&lt;span style=&quot;white-space: normal;&quot;&gt;&amp;nbsp;Local Concerns&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=14;labelBackgroundColor=default;" parent="KJEaABMl4YH4yPC1yJ6U-22" vertex="1" connectable="0">
           <mxGeometry x="-0.0314" relative="1" as="geometry">
             <mxPoint x="65" y="2" as="offset" />
           </mxGeometry>
