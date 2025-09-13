@@ -46,8 +46,7 @@ Causal inference · NLP · Computational Social Science
 
 ### 🎤 Conference Service & Presentations
 
-- Program Committee, AAAI
-- Reviewer, AAAI; WiML@NeurIPS
+- Program Committee, AAAI, CSCW, WiML@NeurIPS
 - Presented at: NeurIPS, COLM, MIT Polarization Workshop, MSLD, NoBeC, ESA
 
 ---
