@@ -4,11 +4,22 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="YwLqQFml5JUgGTTbryA5-4" edge="1" parent="1" source="PQav8ym8JlCdf9CAsBeG-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="PQav8ym8JlCdf9CAsBeG-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#b0e3e6;strokeColor=#0e8088;arcSize=7;opacity=50;" value="Location: Dearborn &amp;amp; Warren, MI&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(See location justification in Section A2.1.2)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Teams: 2 canvassers per team&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Canvassers: 32 total (26 female, 13 with hijab),&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;     &lt;/span&gt;blind to hypotheses and randomly assigned&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Data collection: Late Jun - Aug, 2017&lt;/span&gt;&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="320" x="30" y="100" as="geometry" />
         </mxCell>
         <mxCell id="YwLqQFml5JUgGTTbryA5-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#b0e3e6;strokeColor=#0e8088;arcSize=28;fontStyle=1" value="Recruitment &amp;amp; Setup" vertex="1">
           <mxGeometry height="30" width="140" x="30" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="YwLqQFml5JUgGTTbryA5-2" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#b0e3e6;strokeColor=#0e8088;arcSize=7;opacity=50;" value="Location: Dearborn &amp;amp; Warren, MI&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;(See location justification in Section A2.1.2)&lt;/span&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Teams: 2 canvassers per team&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;br&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Canvassers: 32 total (26 female, 13 with hijab),&amp;nbsp;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;&lt;/span&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;&#x9;     &lt;/span&gt;blind to hypotheses and randomly assigned&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt; &lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;white-space: pre;&quot;&gt;Data collection: Late Jun - Aug, 2017&lt;/span&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="130" width="320" x="30" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="YwLqQFml5JUgGTTbryA5-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#b0e3e6;strokeColor=#0e8088;arcSize=28;fontStyle=1" value="Recruitment &amp;amp; Setup" vertex="1">
+          <mxGeometry height="30" width="140" x="30" y="280" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
