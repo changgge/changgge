@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/26.3.1 Safari/605.1.15" version="29.6.0">
   <diagram name="Page-1" id="XfUiasGX37hNPklgrnbz">
-    <mxGraphModel dx="1299" dy="869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="2057" dy="1377" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -202,7 +202,7 @@
         <mxCell id="pbFr15_lb-iM5J4tl6dC-35" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;opacity=50;" value="&lt;b&gt;Choice&lt;/b&gt;: which value is the most important to you" vertex="1">
           <mxGeometry height="80" width="135" x="190" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Video" vertex="1">
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-41" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="One-Minute Video" vertex="1">
           <mxGeometry height="30" width="60" x="520" y="565" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-42" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Choice" vertex="1">
@@ -296,7 +296,7 @@
         <mxCell id="pbFr15_lb-iM5J4tl6dC-91" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=7;opacity=50;" value="&lt;p&gt;&lt;br&gt;&lt;/p&gt;" vertex="1">
           <mxGeometry height="460" width="150" x="750" y="430" as="geometry" />
         </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-92" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-150">
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-92" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-93" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-165">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-93" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=4;opacity=50;fontColor=#333333;" value="" vertex="1">
@@ -436,7 +436,7 @@
         <mxCell id="pbFr15_lb-iM5J4tl6dC-129" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=7;opacity=50;" value="&lt;p&gt;&lt;b&gt;Video&lt;/b&gt;: two views of recycling&lt;/p&gt;" vertex="1">
           <mxGeometry height="60" width="130" x="760" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=7;opacity=50;" value="&lt;p&gt;&lt;b&gt;Write&lt;/b&gt;: someone you know about people who (do not) recycle&lt;/p&gt;&lt;p&gt;&lt;b&gt;Write&lt;/b&gt;: a time you recycled or why recycling is important to you&lt;/p&gt;" vertex="1">
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-130" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#fff2cc;strokeColor=#d6b656;arcSize=7;opacity=50;" value="&lt;p&gt;&lt;b&gt;Canvasser&lt;/b&gt;: share their own story of why or why they do not recycle.&lt;/p&gt;&lt;p&gt;&lt;b&gt;Participant&lt;/b&gt;: share their recycling choices&lt;/p&gt;" vertex="1">
           <mxGeometry height="130" width="130" x="760" y="640" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-131" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;opacity=50;" value="&lt;b&gt;Choice&lt;/b&gt;: which value is the most important to you" vertex="1">
@@ -448,7 +448,7 @@
         <mxCell id="pbFr15_lb-iM5J4tl6dC-133" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=7;opacity=50;" value="&lt;b&gt;Video&lt;/b&gt;: two perspectives on Muslims in America" vertex="1">
           <mxGeometry height="60" width="150" x="1065" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=7;opacity=50;" value="&lt;b&gt;Write&lt;/b&gt;: what you know about Muslims&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;div&gt;&lt;b&gt;Write&lt;/b&gt;: a time when you felt judged for who you are&lt;/div&gt;&lt;/div&gt;" vertex="1">
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-134" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#d5e8d4;strokeColor=#82b366;arcSize=7;opacity=50;" value="&lt;b&gt;Canvasser&lt;/b&gt;: share a story where they themselves faced prejudice&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Participant&lt;/b&gt;: share a similar story of their own&lt;/div&gt;" vertex="1">
           <mxGeometry height="130" width="150" x="1065" y="640" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-135" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-136" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);">
@@ -470,7 +470,7 @@
         <mxCell id="pbFr15_lb-iM5J4tl6dC-139" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;opacity=50;" value="&lt;b&gt;Video&lt;/b&gt;: how others define these values" vertex="1">
           <mxGeometry height="60" width="135" x="910" y="550" as="geometry" />
         </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;opacity=50;" value="&lt;b&gt;Write&lt;/b&gt;: someone you know who thinks the value you chose is important&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Write&lt;/b&gt;: a time when the value is important to you&lt;/div&gt;" vertex="1">
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-140" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;opacity=50;" value="&lt;div&gt;&lt;b&gt;Canvasser&lt;/b&gt;: share a story in which the value was important to themselves&lt;/div&gt;&lt;b&gt;&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;Participant&lt;/b&gt;: reflect on why the value was important to them" vertex="1">
           <mxGeometry height="130" width="135" x="910" y="640" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-141" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-142" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);">
@@ -481,13 +481,10 @@
         <mxCell id="pbFr15_lb-iM5J4tl6dC-142" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#dae8fc;strokeColor=#6c8ebf;arcSize=7;opacity=50;" value="&lt;b&gt;Choice&lt;/b&gt;: which value is the most important to you" vertex="1">
           <mxGeometry height="80" width="135" x="910" y="800" as="geometry" />
         </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-143" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Video" vertex="1">
-          <mxGeometry height="30" width="60" x="1240" y="565" as="geometry" />
-        </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-144" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Choice" vertex="1">
           <mxGeometry height="30" width="60" x="1240" y="465" as="geometry" />
         </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Two Writing Tasks" vertex="1">
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-145" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Discussion with Canvasser" vertex="1">
           <mxGeometry height="30" width="60" x="1240" y="680" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-146" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="Repeat Choice" vertex="1">
@@ -503,19 +500,16 @@
           <mxGeometry height="30" width="225" x="852" y="1170" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-150" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=0;fillColor=#f5f5f5;strokeColor=#666666;arcSize=28;fontStyle=5;fontColor=#333333;" value="Item Count Technique Survey" vertex="1">
-          <mxGeometry height="30" width="195.5" x="740" y="1260" as="geometry" />
-        </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-151" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-152" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-163">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry height="30" width="195.5" x="747" y="1290" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-152" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=4;opacity=50;fontColor=#333333;" value="" vertex="1">
-          <mxGeometry height="150" width="377" x="740" y="1290" as="geometry" />
+          <mxGeometry height="150" width="377" x="750" y="1320" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-153" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-159" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-160">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="880" y="1365" />
-              <mxPoint x="880" y="1315" />
+              <mxPoint x="890" y="1395" />
+              <mxPoint x="890" y="1345" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -535,8 +529,8 @@
         <mxCell id="pbFr15_lb-iM5J4tl6dC-157" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-159" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-162">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="880" y="1365" />
-              <mxPoint x="880" y="1415" />
+              <mxPoint x="890" y="1395" />
+              <mxPoint x="890" y="1445" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -545,20 +539,17 @@
             <mxPoint x="4" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Randomly Assign&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="120" x="750" y="1350" as="geometry" />
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-159" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;fontSize=11;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Random Assignment&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="760" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-160" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=0;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;" value="Base set of questions" vertex="1">
-          <mxGeometry height="30" width="165" x="942.5" y="1300" as="geometry" />
+          <mxGeometry height="30" width="165" x="952.5" y="1330" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-161" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=0;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;" value="&lt;font color=&quot;#000000&quot;&gt;&lt;span style=&quot;caret-color: rgb(0, 0, 0);&quot;&gt;Base + Muslim Immigration&lt;/span&gt;&lt;/font&gt;" vertex="1">
-          <mxGeometry height="30" width="165" x="942.5" y="1350" as="geometry" />
+          <mxGeometry height="30" width="165" x="952.5" y="1380" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-162" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=0;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Base + Immigration&lt;/span&gt;" vertex="1">
-          <mxGeometry height="30" width="165" x="942.5" y="1400" as="geometry" />
-        </mxCell>
-        <mxCell id="pbFr15_lb-iM5J4tl6dC-163" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=0;fillColor=#f5f5f5;strokeColor=#666666;arcSize=28;fontStyle=5;fontColor=#333333;" value="COVID question&lt;div&gt;Anti-Asian question&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="135" x="1145" y="1335" as="geometry" />
+          <mxGeometry height="30" width="165" x="952.5" y="1430" as="geometry" />
         </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-164" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" value="">
           <mxGeometry height="50" relative="1" width="50" as="geometry">
@@ -566,8 +557,84 @@
             <mxPoint x="1130" y="1160" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-167" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-165" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-150">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="pbFr15_lb-iM5J4tl6dC-165" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=28;fontStyle=5;fontColor=#333333;" value="Demographic survey" vertex="1">
-          <mxGeometry height="30" width="140" x="1117" y="1250" as="geometry" />
+          <mxGeometry height="30" width="140" x="927" y="1240" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-166" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;rounded=0;fontStyle=1" value="One-Minute Video" vertex="1">
+          <mxGeometry height="30" width="60" x="1240" y="565" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-170" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Online Experiment&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="120" width="337.5" x="172.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-171" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;In-Person Experiment (Wave 1)&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="357" x="803" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-173" parent="1" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;fontStyle=4" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;In-Person Follow-up (Wave 2)&lt;/h1&gt;" vertex="1">
+          <mxGeometry height="40" width="357" x="1401.5" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-194" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-174" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-176">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-174" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=8;fontStyle=5;fontColor=#333333;" value="Recall Past Conversation&lt;div&gt;&amp;amp;&amp;nbsp;&lt;/div&gt;&lt;div&gt;Discuss If Participants&#39; Feelings Changed&lt;/div&gt;" vertex="1">
+          <mxGeometry height="100" width="270" x="1428.5" y="70" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-175" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=4;opacity=50;fontColor=#333333;" value="" vertex="1">
+          <mxGeometry height="155" width="500" x="1330" y="245" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-176" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=28;fontStyle=5;fontColor=#333333;" value="Trust Game" vertex="1">
+          <mxGeometry height="30" width="90" x="1518.5" y="215" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-177" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-181" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-182">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1575" y="300" />
+              <mxPoint x="1575" y="270" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-178" connectable="0" parent="pbFr15_lb-iM5J4tl6dC-177" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;p = 1/2&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.091" y="2" as="geometry">
+            <mxPoint x="12" y="2" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-179" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-181" style="edgeStyle=orthogonalEdgeStyle;rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=0;strokeColor=light-dark(#606060, #ededed);" target="pbFr15_lb-iM5J4tl6dC-183">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1575" y="300" />
+              <mxPoint x="1575" y="320" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-180" connectable="0" parent="pbFr15_lb-iM5J4tl6dC-179" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" value="&amp;nbsp;p = 1/2&amp;nbsp;" vertex="1">
+          <mxGeometry relative="1" x="0.0369" as="geometry">
+            <mxPoint x="10" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-181" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Match to a receiver&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="120" x="1435" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-182" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=0;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Muslim (Arabic name)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="165" x="1650" y="255" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-183" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=center;spacingLeft=0;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Non-Muslim (English name)&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="165" x="1650" y="305" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-186" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=28;fontStyle=1;fontColor=#333333;" value="Part 2" vertex="1">
+          <mxGeometry height="30" width="60" x="1350" y="355" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-187" edge="1" parent="1" source="pbFr15_lb-iM5J4tl6dC-188" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=light-dark(#606060, #ededed);">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1380" y="355" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-188" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=28;fontStyle=1;fontColor=#333333;" value="Setup" vertex="1">
+          <mxGeometry height="30" width="60" x="1350" y="285" as="geometry" />
+        </mxCell>
+        <mxCell id="pbFr15_lb-iM5J4tl6dC-191" parent="1" style="rounded=1;whiteSpace=wrap;html=1;align=left;spacingLeft=10;fillColor=#f5f5f5;strokeColor=#666666;arcSize=7;opacity=50;fontColor=#333333;" value="&lt;span style=&quot;color: rgb(0, 0, 0);&quot;&gt;Guess how much the receiver returns&lt;/span&gt;" vertex="1">
+          <mxGeometry height="30" width="225" x="1435" y="350" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
